@@ -1,8 +1,8 @@
--  :eight_spoked_asterisk: oi, meu nome é Luana
+-  :bust_in_silhouette: oi, meu nome é Luana
 
-- :eight_spoked_asterisk: Live intensely!
+- :sparkles: Live intensely!
 
-- :eight_spoked_asterisk: Curitiba-pr
+-  :brazil: Curitiba-pr
 
 
 <!---
