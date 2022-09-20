@@ -1,8 +1,8 @@
-- ✨ oi, meu nome é Luana
+-  :eight_spoked_asterisk: oi, meu nome é Luana
 
-- ✨ Live intensely!
+- :eight_spoked_asterisk: Live intensely!
 
-- ✨ Curitiba-pr
+- :eight_spoked_asterisk: Curitiba-pr
 
 
 <!---
